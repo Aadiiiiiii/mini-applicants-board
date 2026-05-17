@@ -7,6 +7,12 @@ Full-stack Mini Applicants Board assignment. The application allows a recruiter 
 Frontend URL:   http://localhost:3000/applicants
 Backend Health URL:  http://localhost:5000/api/v1
 
+## Live URLs
+
+Frontend URL: https://mini-applicants-board.vercel.app  
+Backend Health URL: https://mini-applicants-board.onrender.com/api/v1/health
+
+
 Example:
 
 ```txt
